@@ -1,0 +1,10 @@
+{
+    "name": "p-aws-aws-iamaccessanalyzer-validate-policy",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^3.33.0",
+        "@pulumi/pulumi": "^2.22.0"
+    }
+}

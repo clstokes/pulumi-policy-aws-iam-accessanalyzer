@@ -1,0 +1,2 @@
+description: A reference Policy Pack for evaluating IAM Policies using AWS IAM Access Analyzer.
+runtime: nodejs
