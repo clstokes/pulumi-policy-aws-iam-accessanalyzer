@@ -1,6 +1,6 @@
 # AWS IAM Access Analyzer Policy Validation with Pulumi Policy as Code ("CrossGuard")
 
-This project demonstrates how you can use [Pulumi CrossGuard](https://www.pulumi.com/crossguard/) to evalaute AWS IAM policies before deployment and prevent policies from being created that do not pass [IAM Access Analyzer Policy Validation](https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-policy-validation/).
+This project demonstrates how you can use [Pulumi CrossGuard](https://www.pulumi.com/crossguard/) to evaluate AWS IAM policies before deployment and prevent policies from being created that do not pass [IAM Access Analyzer Policy Validation](https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-policy-validation/).
 
 
 ## Policy Code
